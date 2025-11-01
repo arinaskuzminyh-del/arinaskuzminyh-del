@@ -1,9 +1,9 @@
 Arina Kuz
 
 Какими инструментами обладаю:
-Figma 
-GIMP
-Inkscape
-Pyton 
-Microsoft Office
-Miro
+Figma;
+GIMP;
+Inkscape;
+Pyton;
+Microsoft Office;
+Miro;
