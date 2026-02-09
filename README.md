@@ -40,4 +40,4 @@
 - **PHP**: Laravel, WordPress, создание веб-приложений
 - Разработка REST API, работа с базами данных
 
-https://github.com/arinaskuzminyh-del/arinaskuzminyh-del/
+https://github.com/arinaskuzminyh-del/arinaskuzminyh-del
